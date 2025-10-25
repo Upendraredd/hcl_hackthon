@@ -78,6 +78,13 @@ python bank_account_creation.py
 
 The script will start, connect to the database, and prompt you for your details.
 
+
+**Technology Stack:**
+- Python 3.x
+- MySQL Database
+- mysql-connector-python library
+
+
 ## Usage Flow
 
 1.  When you run the script, it will first attempt to connect to the MySQL database.
