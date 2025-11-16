@@ -12,7 +12,7 @@ try:
         host="127.0.0.1",
         port=3306,
         user="root",
-        password="Upendr@143",
+        password="1********1",
         database="bank_db", # Added the specific database
         connection_timeout=5
     )
